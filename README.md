@@ -6,6 +6,46 @@ Instructor: [Alan Badillo Salas](alan@nomadacode.com)
 
 Bienvenidos al curso de Machine Learning 🤖 con Python 🐍 de Thincrs.
 
+Hola a Todos.
+
+Es un gusto darles la bienvenida al curso de Machine Learning de TAE.
+
+Mediante este correo estaré resolviendo sus dudas.
+
+Les dejo algunos puntos importantes que se dieron en la primera clase:
+
+Punto 1 - Repositorio del curso
+
+Todo el contenido del curso está en un repositorio público en la siguiente liga:
+
+https://github.com/dragonnomada/thincrs-machine-learning-2023-oct/tree/main
+
+Punto 2 - Evaluación
+
+Cada semana se dejará entre ejercicios que determinarán el nivel de aprovechamiento en diferentes dificultades. Son libres de hacer mínimo los de dificultad baja, no menos.
+
+Al final habrá un examen final.
+
+Punto 3 - Plataforma y grabaciones
+
+Tienen una plataforma dónde podrán consultar cosas adicionales. También tendrán acceso a las grabaciones (preguntar al mentor).
+
+https://drive.google.com/drive/folders/1Atx121hXAbvdWTE_dZVKxz4bcZk3nJaO?usp=sharing
+
+Punto 4 - Asistencia
+
+La asistencia es obligatoria (75% me parece), por lo que si faltan a una sesión tienen que enviarme correo aquí y copia al mentor. Según las indicaciones que me hicieron llegar:
+
+Nota: Para avisos de ausentismo, deberán avisarle al mentor y enviar correo a educacion@thincrs.com con copia al mentor.
+
+Por el momento es todo.
+
+Cualquier duda quedo al pendiente.
+
+Mucho éxito a todos en su curso.
+
+Nota: Cualquier comentario que no quieran expresar en clase será bien recibido y tomado en cuenta.
+
 ## Ficha Técnica
 
     Curso: Machine Learning
