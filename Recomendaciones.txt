@@ -4,14 +4,21 @@ Recomendaciones:
 
 --- Análisis de Datos ---
 Minería de Datos
+- Extracción y manejo de datos (numpy, pandas)
+- Reconocimiento de patrones (expresiones regulares)
+- Visualización de datos (matplotlib, seaborn)
 Ciencia de Datos
+- Limpieza de datos (expresiones regulares)
+- Preprocesamiento de datos (mapeos y filtros)
+- Procesamiento de datos (estadística)
+- Reportes (pdf, flask, excel)
 
 --- Ingeniería de Datos ---
-* Machine Learning
+* Machine Learning (clasificación, regresión, PCA, clustering)
 
 --- Ingeniería de Datos (Avanzado) ---
-Deep Learning
-Datawarehouse y Datalake
+Deep Learning (redes neuronales, recurrentes, convolutivas)
+Datawarehouse y Datalake (hadoop, spark, sql, erp, sap)
 
 2. Crear un portafolio de casos de uso
 
