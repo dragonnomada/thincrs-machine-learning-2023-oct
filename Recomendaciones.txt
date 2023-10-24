@@ -1,0 +1,29 @@
+Recomendaciones:
+
+1. Entender los diferentes estudios en Machine Learning y Ciencia de datos
+
+--- Análisis de Datos ---
+Minería de Datos
+Ciencia de Datos
+
+--- Ingeniería de Datos ---
+* Machine Learning
+
+--- Ingeniería de Datos (Avanzado) ---
+Deep Learning
+Datawarehouse y Datalake
+
+2. Crear un portafolio de casos de uso
+
+- Estudio de la planta iris (regresión y clasificación)
+- Evaluación del precio casas
+- Análisis del COVID
+- Análisis de la Diabetes
+- Análisis del Cáncer
+
+3. Construir Datasets propios
+
+- Proyectos realizados (fechas, programadores, puntaciones)
+- Métricas de desempeño del personal (salarios, tipo de puesto, nóminas)
+- Métricas de una Aplicación (visitas, transacciones, fechas, auditoría)
+
